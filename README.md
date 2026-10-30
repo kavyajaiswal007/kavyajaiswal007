@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m not here to just learn tech.<br>I’m here to build with it.<br><br>Student. Developer. Builder.<br>Exploring AI, web technologies, and the process of turning crazy ideas into products people can actually use.<br><br>Currently building → ZeroGap 🚀
+I’m not here to just learn tech.<br>I’m here to build with it.<br><br>Student. Developer. Builder.<br>Exploring AI, web technologies, and the process of turning crazy ideas into products people can actually use.
 
 
 ## 🌐 Socials:
